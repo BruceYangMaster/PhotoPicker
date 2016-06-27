@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\Demo\\PhotoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_del_state.xml",
+        "source": "E:\\Demo\\PhotoDemo\\app\\src\\main\\res\\drawable\\plugin_camera_del_state.xml"
+    },
+    {
+        "merged": "E:\\Demo\\PhotoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_title_btn_cancel.xml",
+        "source": "E:\\Demo\\PhotoDemo\\app\\src\\main\\res\\drawable\\plugin_camera_title_btn_cancel.xml"
+    },
+    {
+        "merged": "E:\\Demo\\PhotoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_ok_btn_state.xml",
+        "source": "E:\\Demo\\PhotoDemo\\app\\src\\main\\res\\drawable\\plugin_camera_ok_btn_state.xml"
+    },
+    {
+        "merged": "E:\\Demo\\PhotoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_title_btn_preview.xml",
+        "source": "E:\\Demo\\PhotoDemo\\app\\src\\main\\res\\drawable\\plugin_camera_title_btn_preview.xml"
+    },
+    {
+        "merged": "E:\\Demo\\PhotoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_title_btn_back.xml",
+        "source": "E:\\Demo\\PhotoDemo\\app\\src\\main\\res\\drawable\\plugin_camera_title_btn_back.xml"
+    },
+    {
+        "merged": "E:\\Demo\\PhotoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_pic_choose_selector.xml",
+        "source": "E:\\Demo\\PhotoDemo\\app\\src\\main\\res\\drawable\\plugin_camera_pic_choose_selector.xml"
+    },
+    {
+        "merged": "E:\\Demo\\PhotoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_while.xml",
+        "source": "E:\\Demo\\PhotoDemo\\app\\src\\main\\res\\drawable\\text_while.xml"
+    },
+    {
+        "merged": "E:\\Demo\\PhotoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_albumbackground.xml",
+        "source": "E:\\Demo\\PhotoDemo\\app\\src\\main\\res\\drawable\\plugin_camera_albumbackground.xml"
+    },
+    {
+        "merged": "E:\\Demo\\PhotoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_nobgd.xml",
+        "source": "E:\\Demo\\PhotoDemo\\app\\src\\main\\res\\drawable\\bt_nobgd.xml"
+    }
+]

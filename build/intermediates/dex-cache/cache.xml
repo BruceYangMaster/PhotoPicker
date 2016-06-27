@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android-yang\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\Demo\PhotoDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_6d45211eb0a312ff339876d22559253ac78879ad\classes.dex" />
+    </item>
+    <item
+        jar="E:\Demo\PhotoDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0264d043feb4a93e6ad8d9bea65c702f65c2a1a7">
+        <dex dex="E:\Demo\PhotoDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a4fb08b581a0645bf42fe68950aa07b62b624f2c\classes.dex" />
+    </item>
+    <item
+        jar="E:\Demo\PhotoDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fb0d2bda763a5f4f7927131c8300daf3e41f192e">
+        <dex dex="E:\Demo\PhotoDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ce4fa3b96e8fd997fe380e3aad47483dd231cd1a\classes.dex" />
+    </item>
+
+</items>

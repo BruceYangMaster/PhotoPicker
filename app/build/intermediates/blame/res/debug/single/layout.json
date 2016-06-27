@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\Demo\\PhotoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_published_grida.xml",
+        "source": "E:\\Demo\\PhotoDemo\\app\\src\\main\\res\\layout\\item_published_grida.xml"
+    },
+    {
+        "merged": "E:\\Demo\\PhotoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_gallery.xml",
+        "source": "E:\\Demo\\PhotoDemo\\app\\src\\main\\res\\layout\\plugin_camera_gallery.xml"
+    },
+    {
+        "merged": "E:\\Demo\\PhotoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_image_file.xml",
+        "source": "E:\\Demo\\PhotoDemo\\app\\src\\main\\res\\layout\\plugin_camera_image_file.xml"
+    },
+    {
+        "merged": "E:\\Demo\\PhotoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_select_folder.xml",
+        "source": "E:\\Demo\\PhotoDemo\\app\\src\\main\\res\\layout\\plugin_camera_select_folder.xml"
+    },
+    {
+        "merged": "E:\\Demo\\PhotoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Demo\\PhotoDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Demo\\PhotoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_popupwindows.xml",
+        "source": "E:\\Demo\\PhotoDemo\\app\\src\\main\\res\\layout\\item_popupwindows.xml"
+    },
+    {
+        "merged": "E:\\Demo\\PhotoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_album.xml",
+        "source": "E:\\Demo\\PhotoDemo\\app\\src\\main\\res\\layout\\plugin_camera_album.xml"
+    },
+    {
+        "merged": "E:\\Demo\\PhotoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_select_imageview.xml",
+        "source": "E:\\Demo\\PhotoDemo\\app\\src\\main\\res\\layout\\plugin_camera_select_imageview.xml"
+    },
+    {
+        "merged": "E:\\Demo\\PhotoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_selectimg.xml",
+        "source": "E:\\Demo\\PhotoDemo\\app\\src\\main\\res\\layout\\activity_selectimg.xml"
+    },
+    {
+        "merged": "E:\\Demo\\PhotoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_no_image_file.xml",
+        "source": "E:\\Demo\\PhotoDemo\\app\\src\\main\\res\\layout\\plugin_camera_no_image_file.xml"
+    },
+    {
+        "merged": "E:\\Demo\\PhotoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_show_all_photo.xml",
+        "source": "E:\\Demo\\PhotoDemo\\app\\src\\main\\res\\layout\\plugin_camera_show_all_photo.xml"
+    }
+]
